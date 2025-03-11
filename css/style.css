@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-link,.nav-link.disabled{
+    color: white;
+}
+
+a img{
+    width: 100%;
+}
+
+.logo{
+    width:3vw;
+}
